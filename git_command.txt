@@ -1,0 +1,5 @@
+   1"c:\Users\hp\AppData\Local\Programs\Microsoft VS Code\034f571df5\resources\app\out\vs\workbench\con...
+   2 git status                                                                                                    
+   3 git remote add origin https://github.com/Pratham-cloud25/GitHub-for-Devops.git                                
+   4 git remote -v                                                                                                 
+   5 git push origin master   
