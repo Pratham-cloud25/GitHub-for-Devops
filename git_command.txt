@@ -3,3 +3,11 @@
    3 git remote add origin https://github.com/Pratham-cloud25/GitHub-for-Devops.git                                
    4 git remote -v                                                                                                 
    5 git push origin master   
+    6 history                                                                                                       
+   7 git status                                                                                                    
+   8 git add .                                                                                                     
+   9 git commit "added git_command.txt"                                                                            
+  10 git status                                                                                                    
+  11 git commit -m  "added git_command.txt"                                                                        
+  12 git push                                                                                                      
+  13 git push origin master
